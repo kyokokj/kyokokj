@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyokokj
+- 👋 Hi, I’m Kyoko, but you can call me Coco as it's easier.
 - 👀 I’m a software developer, having 3years+ experience of working in a company.
 - 🌱 I’m currently learning Python / React / So;idity
 - 💞️ I’ve used Rails-3years / C#-2years / C-few months / AWS-1year 
