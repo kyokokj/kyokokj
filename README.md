@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @kyokokj
-- 👀 I’m interested in creativity
-- 🌱 I’m currently learning Phython
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ①facebook.com/kyoko.kjym　②www.linkedin.com/in/kyokokjym　③https://www.youtube.com/channel/UCnbUqR1b8qXurZ1QYdkvlXg
-
-<!---
-kyokokj/kyokokj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a software developer, having 3years+ experience of working in a company.
+- 🌱 I’m currently learning Python / React / So;idity
+- 💞️ I’ve used Rails-3years / C#-2years / C-few months / AWS-1year 
+- 📫 How to reach me ①facebook.com/kyoko.kjym　②www.linkedin.com/in/cocokjym　③https://www.youtube.com/channel/UCnbUqR1b8qXurZ1QYdkvlXg
