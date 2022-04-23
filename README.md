@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kyoko, but you can call me Coco if it's easier for you;)
-- 👀 I’m a software developer, having 3years+ experience in a company.
+- 👋 Hi, I’m Kyoko
+- 👀 I’m a software engineer
 - 🌱 I’m currently learning React / Solidity
-- 💞️ I’ve used AWS-1year as well
+- 💞️ I’ve used ...
 - 📫 How to reach me ①facebook.com/kyoko.kjym　②www.linkedin.com/in/cocokjym
