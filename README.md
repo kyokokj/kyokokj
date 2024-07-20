@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Kyoko
+- 👋 Hi, I’m Kyoko from Japan
 - 👀 I’m a software engineer
-- 🌱 I’m currently learning React / Solidity
-- 💞️ I’ve used ...
+- 🌱 I've been using Ruby on Rails, Nodejs, AWS in my current job
+- 💞️ I’ve used C, C#
+- 🖋️ I'm studying React, ...
 - 📫 How to reach me ①facebook.com/kyoko.kjym　②www.linkedin.com/in/cocokjym
